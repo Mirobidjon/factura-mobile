@@ -3,7 +3,7 @@
 ## Login
 
 ![result]()
-<img src="2023-04-03_15.07.38.jpg" width="128" heigh="300"/>
+<img src="2023-04-03_15.07.38.jpg" width="628" heigh="1000"/>
 
 ### INN (PINFL) `200523221` PASSWORD `1`
 
